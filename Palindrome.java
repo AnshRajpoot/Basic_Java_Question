@@ -13,11 +13,11 @@ public class Palindrome {
         }
         if(check==res)
         {
-            System.out.println("Number"+ res + " is palindrome");
+            System.out.println("Number"+ check + " is palindrome");
         }
         else
         {
-            System.out.println("Number "+ res + " is not palindrome");
+            System.out.println("Number "+ check + " is not palindrome");
         }
 
     }
